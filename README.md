@@ -1,2 +1,3 @@
 # resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Resumo do Lab
+Aprendi os conceitos iniciais de computação em nuvem, incluindo suas vantagens como escalabilidade e acesso remoto. Também pratiquei a criação de um repositório no GitHub e a documentação do conteúdo no arquivo
